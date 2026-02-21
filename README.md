@@ -1,5 +1,8 @@
-## Hi there 👋
+## OLá! Eu sou a Ana Paula Pinheiro 👩‍💻
+**'Analista de Suporte'**
 
+Sou analista de suporte e venho construindo minha carreira com dedicação, buscando sempre aprimorar meus conhecimentos técnicos e minhas habilidades no atendimento e na resolução de problemas. No dia a dia, procuro oferecer soluções eficientes e contribuir para o bom funcionamento dos sistemas e a satisfação dos usuários.
+Atualmente, estou finalizando o curso de Sistemas de Informação, etapa importante para meu crescimento profissional. Meu objetivo é evoluir na área de tecnologia, assumir novos desafios e desenvolver uma trajetória sólida, baseada em aprendizado contínuo, responsabilidade e paixão pelo que faço. 🚀
 <!--
 **anapaulapinheiro/anapaulapinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
